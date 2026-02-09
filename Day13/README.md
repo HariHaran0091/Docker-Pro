@@ -1,5 +1,3 @@
-# FINAL CLASS ON DOCKER
-
 # Monitoring and Alerting with Prometheus, PagerDuty, Grafana, and Alertmanager.
 
 ![here-are-some-youtube-thumbnail-prompts-for-promet-GoWbDWcOQHa58lhhcj-Dlg-r88Sb2BbQC-K7sFwhVJ8VA](https://github.com/user-attachments/assets/58d6f33b-8a42-491e-bd3a-48551e5ebbbf)
@@ -81,3 +79,4 @@ This project is licensed under the MIT License.
 ---
 
 Feel free to adjust any part of this README to better fit your project's specific details and needs!
+
